@@ -6,3 +6,5 @@ These test scripts are based on the Jmeter load testing application and are used
 Results of this evaluation performance test are published in a scientific paper called "Performance Evaluation of Open Source IoT Platforms"
 
 Ismail, Ahmed A., Haitham S. Hamza, and Amira M. Kotb. "Performance evaluation of open source IoT platforms." 2018 IEEE Global Conference on Internet of Things (GCIoT). IEEE, 2018.
+
+https://ieeexplore.ieee.org/document/8620130
